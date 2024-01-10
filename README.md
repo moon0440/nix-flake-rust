@@ -1,4 +1,4 @@
-# Rust Development with Nix Flake
+# Nix Flake: Rust Development
 
 Welcome to my template, designed to streamline your Rust development process using Nix. This comprehensive guide aims to provide you with a detailed understanding of how to leverage various tools for an efficient and organized development workflow in Rust. We utilize Nix, a powerful package manager, to create a consistent development environment. Alongside, we integrate several tools, each serving a unique purpose in enhancing your Rust programming experience.
 
