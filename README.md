@@ -18,7 +18,7 @@ mkdir my-project
 cd my-project
 
 # Initialize the project with our template
-nix flake init -t github:moon0440/rust-flake
+nix flake init -t github:moon0440/nix-flake-rust
 
 # Initialize Git and Cargo, and perform initial build
 git init
