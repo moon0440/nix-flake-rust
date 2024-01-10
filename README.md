@@ -1,7 +1,5 @@
 # Nix Flake: Rust Development
 
-Welcome to my template, designed to streamline your Rust development process using Nix. This comprehensive guide aims to provide you with a detailed understanding of how to leverage various tools for an efficient and organized development workflow in Rust. We utilize Nix, a powerful package manager, to create a consistent development environment. Alongside, we integrate several tools, each serving a unique purpose in enhancing your Rust programming experience.
-
 ## Key Components 
 At the core, we use Nix, an advanced package manager, to set up a reliable and reproducible development shell specifically for Rust projects. This ensures that you work in a controlled environment with consistent dependencies and tooling. 
 - **divnix - Standard:** Used to maintain organization and clarity in your Nix code. It helps in keeping the structure of your Nix configurations neat and readable. 
